@@ -1,0 +1,11 @@
+.rootLogin {
+  background-color: #E7FBFF;
+  height: 100vh;
+}
+.cardLogin {
+  width: 60%;
+  padding: 10%;
+}
+.button {
+  margin: 10%;
+}
